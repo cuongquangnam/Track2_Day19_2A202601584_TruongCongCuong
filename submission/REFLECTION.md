@@ -1,8 +1,8 @@
 # Reflection — Lab 19
 
-**Tên:** _Truong Cong Cuong_
-**Cohort:** _<A20-K3B>_
-**Path đã chạy:** _lite_
+**Tên:** Truong Cong Cuong
+**Cohort:** A20-K3B
+**Path đã chạy:** lite
 
 ---
 
